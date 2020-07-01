@@ -1,0 +1,131 @@
+body{
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size:50px;
+}
+h2{
+    font-size:40px;
+}
+p{
+    color:grey;
+    
+}
+.name-highlight{
+    color:darkblue;
+}
+.half-width{
+    width:40%;
+    float:left;
+    margin-left:5% ;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position:left;
+    
+}
+section{
+    height:500px;
+    padding-bottom: 300px;
+}
+.link-button{
+    text-decoration:none;
+    background-color: deeppink;
+    padding:15px 40px;
+    border-radius:5px;
+    color:white;
+}
+
+.dream-area{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position:center;
+}
+
+.single-experience{
+   
+    border-radius:10px;
+    height:80%;
+    width:25%;
+    background-color:white;
+}
+
+.experience-area{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position:center;
+}
+
+
+
+footer p{
+    text-align:center;
+    font-size:12px;
+}
+
+.space-gap{
+    padding-bottom: 40px;
+}
+
+.center{
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.middle{
+    text-align: center;
+}
+
+#footer-button{
+    text-decoration:none;
+    background-color: deeppink;
+    padding:30px 60px;
+    border-radius:5px;
+    color:white;
+}
+
+#footer-padding{
+    padding-bottom: 70px;
+    color:black;
+    
+}
+
+h5{
+    color:grey;
+    padding-bottom: 30px;
+}
+
+#space{
+    padding-bottom: 50px;
+}
+
+
+.contact{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position:center;
+}
+
+#boxy{
+    border:5px solid deeppink;
+    background-color:deeppink;
+    color:white;
+    height:70px;
+    margin-left: 30%;
+    margin-right:30%;
+    border-radius:5px;
+       
+}
+
+#else{
+    color:white;
+}
+#portion{
+    font-size: 12px;
+}
